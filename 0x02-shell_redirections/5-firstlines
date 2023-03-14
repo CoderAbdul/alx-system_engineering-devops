@@ -1,2 +1,2 @@
 #!/bin/bash
-less /etc/passwd | ls -lt | ca
+less /etc/passwd | ls -lt | cat
